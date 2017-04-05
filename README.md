@@ -1,7 +1,7 @@
 # mint
 WHS Mint Final Project
 
-<p>Project Manager: Braden Amorozo<br>
+<p>Project Manager: Braden Amorozo <br>
 Developers: Isaiah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
 
 <h3>Final Project Breakdown</h3>
