@@ -1,1 +1,4 @@
-isaiah and braden javascript
+function buttonone (){
+  document.getElementById("but-a").style.backgroundColor="red";
+}
+
