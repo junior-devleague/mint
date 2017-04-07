@@ -1,8 +1,8 @@
 # mint
 WHS Mint Final Project
 
-<p>Project Manager: Not Assigned<br>
-Developers: Issah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
+<p>Project Manager: Braden Amorozo<br>
+Developers: Isaiah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
 
 <h3>Final Project Breakdown</h3>
 <b>Assignments and Grading for the 4th quarter</b>
