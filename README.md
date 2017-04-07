@@ -102,4 +102,14 @@ Developers: Issah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
 </ul>
 
 <h2>Task Breakdown - part 2</h2>
-<ul></ul>
+<ul>
+  <li>Create image slider</li>
+  <li>Add C3 for mock data comparison pages</li>
+</ul>
+
+<h2>Stretch Goal</h2>
+<ul>
+  <li>Create Sort All page</li>
+  <li>Create a dynamic drop down menu</li>
+  <li>Display data dynamically</li>
+</ul>
