@@ -5,6 +5,15 @@ Braden & Isaiah: Javascript
 
 We discussed views and what portions of work we will be doing.
 
-Full work on code will be performed on Friday
+Full work on code will be performed on Wednesday
 
 ------------------------------------
+
+April 7, 2017
+
+As a group, HTML structure was created.  
+
+This class we will be working on javascript and css.
+
+No roadblocks
+
