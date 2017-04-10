@@ -1,19 +1,23 @@
 function buttonone (){
-  document.getElementById("but-a").style.backgroundColor="red";
+  document.getElementById("no").style.backgroundColor="green";
 }
 
 function buttontwo(){
-  document.getElementById("but-b").style.backgroundColor="green";
+  document.getElementById("yes").style.backgroundColor="green";
 }
+var storedNumbers = [];
 
+var images = [];
 function yes(){
-  /*
-  if click this yes div, change to next img
-  */
-}
+
+} 
 
 function no (){
   /*
   if click this no div, change to next img
   */
+}
+
+function randomizer() {
+  Math.floor(Math.random() * 10)
 }
