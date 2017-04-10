@@ -7,17 +7,20 @@ function buttontwo(){
 }
 var storedNumbers = [];
 
-var images = [];
+var images = [/*dresses*/];
 function yes(){
-
+  document.getElementById("yes")
+  /*
+  here i put the randomizer when i getum from braden so the onlick function chooses from the array
+  both yes and no function will have the same output
+  */
 } 
 
 function no (){
+  document.getElementById.("no")
   /*
-  if click this no div, change to next img
+  here i put the randomizer when i getum from braden so the onlick function chooses from the array
+  both yes and no functions will have same result
   */
 }
 
-function randomizer() {
-  Math.floor(Math.random() * 10)
-}
