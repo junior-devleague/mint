@@ -21,3 +21,17 @@ Braden had to finish HTML for Alex
 
 Isaiah started on javascript
 
+Alex started on navigation page
+
+------------------------------------
+
+April 10, 2017
+
+Braden is starting on dress randomizer
+
+Isaiah is doing on click functions
+
+Madison is finding 100 dresses with link
+
+Alex is still working on navigation and touching up css with Madison
+
