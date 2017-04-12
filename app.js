@@ -5,3 +5,15 @@ var storedImages = [];
  }
 
  console.log(randomizer);
+
+ /*mock data*/
+ var mockData = [
+ 	{
+ 		Type:"Two Piece",
+ 		Design:"Floral-Print",
+ 		length:"Long"
+ 	},
+ 	{
+ 		
+ 	},
+ ];
