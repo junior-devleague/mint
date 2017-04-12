@@ -14,6 +14,14 @@ var storedImages = [];
  		length:"Long"
  	},
  	{
- 		
+ 		Type:"Sleeveless"
+ 		length:"Floor-Length"
+ 		design:"Bead Embellished Bodice"
+ 	},
+ 	{
+ 		Type:"Strapless Sweetheart"
+ 		length:"Floor Length" 
+ 		Color:"Navy" 
+ 		Design:"Side Slit"
  	},
  ];
