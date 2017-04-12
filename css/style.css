@@ -5,8 +5,12 @@
 #yes {
 	height: 40px;
 	width: 40px;
+	color: green;
+	border-radius: 25px;
 }
 #no {
 	height: 40px;
 	width: 40px;
+	color: red;
+	border-radius:25px;
 }
