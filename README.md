@@ -127,3 +127,20 @@ Developers: Isaiah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
   <li>Create a dynamic drop down menu</li>
   <li>Display data dynamically</li>
 </ul>
+
+<h2>After review 4/14</h2>
+<b>To Do</b>
+<ul>
+  <li>Make the voting.html into the index.html</li>
+  <li>Create a comparison.html page (at least one)</li>
+  <li>Need styles. =(</li>
+  <li>Create a folder in images named dress. Add all of your dress images there</li>
+  <li>Still need slider logic</li>
+  <li>Link the comparison button to the comparison page</li>
+</ul>
+
+<b>Improvments</b>
+<ul>
+  <li>Braden and Issah: Lets add psuedo code to the js. Outline your tasks. Let's start knocking them out!</li>
+  <li>Maddison and Alex: Start adding general styles. Create the comparison page, add colors and fonts.</li>
+</ul>
