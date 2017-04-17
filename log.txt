@@ -1,0 +1,51 @@
+April 5, 2017
+
+Madison & Alex: HTML & CSS for every View
+Braden & Isaiah: Javascript
+
+We discussed views and what portions of work we will be doing.
+
+Full work on code will be performed on Wednesday
+
+------------------------------------
+
+April 7, 2017
+
+As a group, HTML structure was created.  
+
+This class we will be working on javascript and css.
+
+Madison is a little behind in CSS
+
+Braden had to finish HTML for Alex
+
+Isaiah started on javascript
+
+Alex started on navigation page
+
+------------------------------------
+
+April 10, 2017
+
+Braden is starting on dress randomizer
+
+Isaiah is doing on click functions
+
+Madison is finding 100 dresses with link
+
+Alex is still working on navigation and touching up css with Madison
+
+-----------------------------------
+
+April 12, 2017
+
+Braden and Isaiah did Mock data for dresses
+*need to do two more*
+
+Madison did CSS
+
+Alex did HTML for compare page
+
+Good Progress this week
+
+Need to work on CSS mostly

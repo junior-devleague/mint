@@ -90,6 +90,20 @@ Developers: Isaiah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
   <li>Assign classes to reusable styles.</li>
   <li>Create a block comment if styles are for a specific view or user interaction, otherwise it's considered a general style.</li>
 </ul>
+<ul>
+  <li><b>Colors</b><ul>
+    <li>Green: #99FF99</li>
+    <li>Font Gray: #838383</li>
+    <li>Light Gray: #EDEDED</li>
+    <li>Dark Gray: #4A4A4A</li>
+    <li>Red: #E77979</li>
+  </ul></li>
+  <li><b>Fonts</b><ul>
+    <li>Logo <a href="https://fonts.google.com/specimen/Ubuntu">Ubuntu Medium</a></li>
+    <li>Headings <a href="https://fonts.google.com/specimen/Raleway">Raleway Semibold</a></li>
+    <li>Body: <a href="https://fonts.google.com/specimen/Lato">Lato Regular</a></li>
+  </ul></li>
+</ul>
 
 <b>User Interactions</b>
 <ul>
@@ -102,4 +116,31 @@ Developers: Isaiah Harris, Alex Aguinaldo, Braden Amorozo, Maddie Kawakami</p>
 </ul>
 
 <h2>Task Breakdown - part 2</h2>
-<ul></ul>
+<ul>
+  <li>Create image slider</li>
+  <li>Add C3 for mock data comparison pages</li>
+</ul>
+
+<h2>Stretch Goal</h2>
+<ul>
+  <li>Create Sort All page</li>
+  <li>Create a dynamic drop down menu</li>
+  <li>Display data dynamically</li>
+</ul>
+
+<h2>After review 4/14</h2>
+<b>To Do</b>
+<ul>
+  <li>Make the voting.html into the index.html</li>
+  <li>Create a comparison.html page (at least one)</li>
+  <li>Need styles. =(</li>
+  <li>Create a folder in images named dress. Add all of your dress images there</li>
+  <li>Still need slider logic</li>
+  <li>Link the comparison button to the comparison page</li>
+</ul>
+
+<b>Improvments</b>
+<ul>
+  <li>Braden and Issah: Lets add psuedo code to the js. Outline your tasks. Let's start knocking them out!</li>
+  <li>Maddison and Alex: Start adding general styles. Create the comparison page, add colors and fonts.</li>
+</ul>
