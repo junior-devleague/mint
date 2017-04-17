@@ -35,3 +35,29 @@ Madison is finding 100 dresses with link
 
 Alex is still working on navigation and touching up css with Madison
 
+-----------------------------------
+
+April 12, 2017
+
+Braden and Isaiah did Mock data for dresses
+*need to do two more*
+
+Madison did CSS
+
+Alex did HTML for compare page
+
+Good Progress this week
+
+Need to work on CSS mostly
+
+------------------------------------
+
+April 17, 2017
+
+Madison Must finish CSS by Friday 
+
+Alex is done with HTML comparison page
+
+Braden needs to finish js randomizer
+
+Isaiah needs to finish the JS functions for buttons
