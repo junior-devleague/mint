@@ -1,10 +1,17 @@
 var storedImages = [];
-
+var random = Math.floor(Math.random() * 10)
  function randomizer() {
- 	Math.floor(Math.random() * 10)
+ 	random
  }
 
+storedImages.push(random)
+ 
  console.log(randomizer);
+
+function noSame() {
+	if (/*random number = to storedImages*/) {/*
+	Run Function Again*/}
+}
 
  /*mock data*/
  var mockData = [
