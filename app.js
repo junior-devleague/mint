@@ -1,4 +1,5 @@
 
+
 function buttonone (){
   document.getElementById("no").style.backgroundColor="green";
 }
@@ -59,5 +60,6 @@ function noSame() {
  		Color:"Navy" 
  		Design:"Side Slit"
  	},
- ];
 
+ ];
+ ];
