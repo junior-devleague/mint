@@ -28,3 +28,8 @@
 	font-family: arial;
 	color: #A9A9A9;
 }
+button{
+	border: black;
+	border-radius: 200px;
+	font-size: 100%;
+}
