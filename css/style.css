@@ -1,0 +1,35 @@
+#im-1 {
+	height: 60%;
+	width: 40%;
+	display: block;
+    margin: auto;
+    border: #A9A9A9 solid 50px;
+    border-radius: 40px;
+}
+#yes {
+	height:75px;
+	width: 75px;
+	color: green;
+	border-radius: 40px;
+	box-shadow: 10px 10px 5px #000;
+	font-size: 100%;
+}
+#no {
+	height: 75px;
+	width: 75px;
+	color: red;
+	border-radius:40px;
+	box-shadow: 10px 10px 5px #000;
+	font-size:100%;
+}
+.content{
+	text-align: center;
+	font-size: 200%;
+	font-family: arial;
+	color: #A9A9A9;
+}
+button{
+	border: black;
+	border-radius: 200px;
+	font-size: 100%;
+}
