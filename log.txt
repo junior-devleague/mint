@@ -49,3 +49,29 @@ Alex did HTML for compare page
 Good Progress this week
 
 Need to work on CSS mostly
+
+------------------------------------
+
+April 17, 2017
+
+Madison Must finish CSS by Friday 
+
+Alex is done with HTML comparison page
+
+Braden needs to finish js randomizer
+
+Isaiah needs to finish the JS functions for buttons
+
+------------------------------------
+
+April 19, 2017
+
+JS psuedo code is completely done
+
+HTML is done for each page
+
+Alex and Madison will finish CSS
+
+Braden will work on real JS
+
+Isaiah will work on JS until 8:40 and check on madison and alex
