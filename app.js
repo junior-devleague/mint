@@ -52,7 +52,7 @@ function noSame() {
  	{
  		Type:"Sleeveless"
  		length:"Floor-Length"
- 		design:"Bead Embellished Bodice"
+ 		Design:"Bead Embellished Bodice"
  	},
  	{
  		Type:"Strapless Sweetheart"
@@ -60,6 +60,18 @@ function noSame() {
  		Color:"Navy" 
  		Design:"Side Slit"
  	},
+  {
+    Type: "Long"
+    Color:"Eggplant Purple" 
+    Event:"Prom Dress"
+    Design:"Beaded Bodice"
+  },
+  {
+    Type:"Open-Back Illusion Long"
+    Event:"Prom Dress" 
+    Design:"Beaded Bodice"
+    Color: "Light Pink"
+  }
 
  ];
- ];
+ 
