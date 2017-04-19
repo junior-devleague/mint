@@ -33,3 +33,8 @@ button{
 	border-radius: 200px;
 	font-size: 100%;
 }
+#compare{
+	font-size: 100%;
+	border-bottom: thick;
+	border-color: #98ff98
+}
