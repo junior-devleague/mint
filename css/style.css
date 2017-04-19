@@ -34,6 +34,10 @@ button{
 	font-size: 100%;
 }
 #compare{
+<<<<<<< HEAD
+=======
+	font-size: 100%;
+>>>>>>> c53421089b730362f1bb82540356cb1e86395d76
 	border-bottom: thick;
 	border-color: #98ff98
 }
