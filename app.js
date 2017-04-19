@@ -42,7 +42,7 @@ function noSame() {
 	Run Function Again*/}
 }
 
- /*mock data*/
+ /*mock data voting page*/
  var mockData = [
  	{
  		Type:"Two Piece",
@@ -74,4 +74,38 @@ function noSame() {
   }
 
  ];
+
+ /*Compare page mock data*/
+
+ var compareData = [
+ 	{
+ 		name:"Waipahu High School",
+ 		percent: "5%"
+ 	},
+ 	{
+ 		name: "Mckinley",
+ 		percent: "2%"
+ 	},
+ 	{
+ 		name: "Radford",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Kalani",
+ 		percent: "30%"
+ 	},
+ 	{
+ 		name: "Roosevelt",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Pearl City",
+ 		percent: "13%"
+ 	},
+ 	{
+ 		name: "Waialua",
+ 		percent: "30%"
+ 	}
+ ];
+
  
