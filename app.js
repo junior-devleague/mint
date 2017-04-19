@@ -26,6 +26,7 @@ function no (){
   */
 }
 
+//Randomizer
 
 var storedImages = [];
 var random = Math.floor(Math.random() * 10)
