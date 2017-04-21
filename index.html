@@ -1,38 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>MINT</title>
-	<link rel="stylesheet" type="text/css" href="./css/style.css">
+	<title>Mint</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<header>
-<div class="container">
-	<div class="aside">
-		<nav>
-      <ul>
-        <li>
-          <a id="first"> START VOTING </a>
-        </li>
-        <li>
-          <a id="second"> COMPARE ALL </a>
-        </li>
-        </ul>
-    </nav>
-  </div>
-</div>
-</header>
-	<div class="content">
-		<div>
-			<p>DRESS NAME</p>
+
+	<div class="nav">
+		<div id="compare">
+			<a href="compare.html">COMPARE ALL</a>
 		</div>
-		<div>
-			<p>DETAILS WILL GO HERE</p>
+		<div class="logo">
+			<h1>MINT</h1>
 		</div>
-		<div>
-			<p>popularity here</p>
+		<div id="index">
+			<a href="index.html">START VOTING</a>
 		</div>
 	</div>
 
+	<div class="content">
+		<div>
+			<h3>Red Dress</h3>
+		</div>
+		<div>
+			<img src="https://cdn.lulus.com/images/product/xlarge/127386a-1.jpg" id="im-1">
+		</div>
+		<div>
+			<p>this dress is killahs</p>
+		</div>
+		<div>
+			<button id="but-a">compare similar dresses</button>
+		</div>
+		<button id="yes" onclick="yes()">
+			Yes
+		</button>
+		<button id="no" onclick="no()">
+			No
+		</button>
+		<div>
+			<h6>Popularity by High School</h6>
+			<div>
+				This dress is a red dress and is pretty killahs
+			</div>
+		</div>
+	</div>
 </body>
 </html>

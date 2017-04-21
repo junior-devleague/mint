@@ -43,7 +43,7 @@ function noSame() {
 	Run Function Again*/}
 }
 
- /*mock data*/
+ /*mock data voting page*/
  var mockData = [
  	{
  		Type:"Two Piece",
@@ -53,7 +53,7 @@ function noSame() {
  	{
  		Type:"Sleeveless"
  		length:"Floor-Length"
- 		design:"Bead Embellished Bodice"
+ 		Design:"Bead Embellished Bodice"
  	},
  	{
  		Type:"Strapless Sweetheart"
@@ -61,6 +61,52 @@ function noSame() {
  		Color:"Navy" 
  		Design:"Side Slit"
  	},
+  {
+    Type: "Long"
+    Color:"Eggplant Purple" 
+    Event:"Prom Dress"
+    Design:"Beaded Bodice"
+  },
+  {
+    Type:"Open-Back Illusion Long"
+    Event:"Prom Dress" 
+    Design:"Beaded Bodice"
+    Color: "Light Pink"
+  }
 
  ];
+
+ /*Compare page mock data*/
+
+ var compareData = [
+ 	{
+ 		name:"Waipahu High School",
+ 		percent: "5%"
+ 	},
+ 	{
+ 		name: "Mckinley",
+ 		percent: "2%"
+ 	},
+ 	{
+ 		name: "Radford",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Kalani",
+ 		percent: "30%"
+ 	},
+ 	{
+ 		name: "Roosevelt",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Pearl City",
+ 		percent: "13%"
+ 	},
+ 	{
+ 		name: "Waialua",
+ 		percent: "30%"
+ 	}
  ];
+
+ 
