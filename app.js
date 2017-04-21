@@ -26,6 +26,7 @@ function no (){
   */
 }
 
+//Randomizer
 
 var storedImages = [];
 var random = Math.floor(Math.random() * 10)
@@ -42,9 +43,13 @@ function noSame() {
 	Run Function Again*/}
 }
 
+<<<<<<< HEAD
 Function m            
 
  /*mock data*/
+=======
+ /*mock data voting page*/
+>>>>>>> 52edbaf251dc4878d98821ba484a32dbe1c65d32
  var mockData = [
  	{
  		Type:"Two Piece",
@@ -81,4 +86,38 @@ Function m
   }
 
  ];
+
+ /*Compare page mock data*/
+
+ var compareData = [
+ 	{
+ 		name:"Waipahu High School",
+ 		percent: "5%"
+ 	},
+ 	{
+ 		name: "Mckinley",
+ 		percent: "2%"
+ 	},
+ 	{
+ 		name: "Radford",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Kalani",
+ 		percent: "30%"
+ 	},
+ 	{
+ 		name: "Roosevelt",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Pearl City",
+ 		percent: "13%"
+ 	},
+ 	{
+ 		name: "Waialua",
+ 		percent: "30%"
+ 	}
+ ];
+
  
