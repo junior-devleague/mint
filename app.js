@@ -1,11 +1,11 @@
 
 
 function buttonone (){
-  document.getElementById("no").style.backgroundColor="green";
+  document.getElementById("no").addEventListener();
 }
 
 function buttontwo(){
-  document.getElementById("yes").style.backgroundColor="green";
+  document.getElementById("yes").addEventListener();
 }
 var storedNumbers = [];
 
@@ -43,13 +43,12 @@ function noSame() {
 	Run Function Again*/}
 }
 
-<<<<<<< HEAD
 Function m            
 
  /*mock data*/
-=======
+
  /*mock data voting page*/
->>>>>>> 52edbaf251dc4878d98821ba484a32dbe1c65d32
+
  var mockData = [
  	{
  		Type:"Two Piece",
