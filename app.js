@@ -42,35 +42,42 @@ function noSame() {
 	Run Function Again*/}
 }
 
+Function m            
+
  /*mock data*/
  var mockData = [
  	{
  		Type:"Two Piece",
  		Design:"Floral-Print",
  		length:"Long"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1561458"
  	},
  	{
  		Type:"Sleeveless"
  		length:"Floor-Length"
  		Design:"Bead Embellished Bodice"
+    Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1520500"
  	},
  	{
  		Type:"Strapless Sweetheart"
  		length:"Floor Length" 
  		Color:"Navy" 
  		Design:"Side Slit"
+    Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1399092"
  	},
   {
     Type: "Long"
     Color:"Eggplant Purple" 
     Event:"Prom Dress"
     Design:"Beaded Bodice"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
   },
   {
     Type:"Open-Back Illusion Long"
     Event:"Prom Dress" 
     Design:"Beaded Bodice"
     Color: "Light Pink"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1582814"
   }
 
  ];
