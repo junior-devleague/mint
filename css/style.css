@@ -3,7 +3,7 @@
 	width: 40%;
 	display: block;
     margin: auto;
-    border: #A9A9A9 solid 50px;
+    border: #838383 solid 50px;
     border-radius: 40px;
 }
 #yes {
@@ -35,14 +35,14 @@ button{
 }
 h1{
 	font-size: 300%;
-	color: 	#A9A9A9;
+	color: #838383;
 }
 .nav{
 	padding: 10px;
 	height: 20%;
 	width: 30%;
 	text-align: center;
-	border-bottom: solid #7FFFD4;
+	border-bottom: solid #99FF99;
 	border-width: 10px;
 }	
 a:link {
