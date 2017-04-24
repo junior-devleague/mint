@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 #im-1 {
 	height: 60%;
 	width: 40%;
 	display: block;
-  margin: auto;
-  border: #A9A9A9 solid 50px;
-  border-radius: 40px;
+ 	margin: auto;
+  	border: #A9A9A9 solid 50px;
+  	border-radius: 40px;
 }
 #yes {
 	height:75px;
@@ -32,9 +33,33 @@ button{
 	border: black;
 	border-radius: 200px;
 	font-size: 100%;
+
 }
 #compare{
 	font-size: 100%;
 	border-bottom: thick;
-	border-color: #98ff98
+	border-color: #99FF99;
+}
+.bimg {
+  position: absolute;
+  transition: opacity .5s ease-in;
+}
+
+.bimg + .bimg { opacity: 0; }
+a:link {
+    color: red;  
+    text-decoration: none;
+}
+a:visited {
+    color: green;
+    text-decoration: none;
+    
+}
+a:hover {
+    color: hotpink;
+    text-decoration: none;
+}
+a:active {
+    color: blue;
+    text-decoration: none;
 }
