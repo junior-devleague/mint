@@ -75,3 +75,15 @@ Alex and Madison will finish CSS
 Braden will work on real JS
 
 Isaiah will work on JS until 8:40 and check on madison and alex
+
+-----------------------------------
+
+April 21, 2017
+
+CSS added styles to voting page
+
+Javascript is ready to add slides
+
+Will add Randomizer later if needed
+
+CSS needs to be done

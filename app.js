@@ -1,11 +1,11 @@
 
 
 function buttonone (){
-  document.getElementById("no").style.backgroundColor="green";
+  document.getElementById("no").addEventListener();
 }
 
 function buttontwo(){
-  document.getElementById("yes").style.backgroundColor="green";
+  document.getElementById("yes").addEventListener();
 }
 var storedNumbers = [];
 
@@ -43,24 +43,80 @@ function noSame() {
 	Run Function Again*/}
 }
 
+Function m            
+
  /*mock data*/
+
+ /*mock data voting page*/
+
  var mockData = [
  	{
  		Type:"Two Piece",
  		Design:"Floral-Print",
  		length:"Long"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1561458"
  	},
  	{
  		Type:"Sleeveless"
  		length:"Floor-Length"
- 		design:"Bead Embellished Bodice"
+ 		Design:"Bead Embellished Bodice"
+    Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1520500"
  	},
  	{
  		Type:"Strapless Sweetheart"
  		length:"Floor Length" 
  		Color:"Navy" 
  		Design:"Side Slit"
+    Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1399092"
  	},
+  {
+    Type: "Long"
+    Color:"Eggplant Purple" 
+    Event:"Prom Dress"
+    Design:"Beaded Bodice"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
+  },
+  {
+    Type:"Open-Back Illusion Long"
+    Event:"Prom Dress" 
+    Design:"Beaded Bodice"
+    Color: "Light Pink"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1582814"
+  }
 
  ];
+
+ /*Compare page mock data*/
+
+ var compareData = [
+ 	{
+ 		name:"Waipahu High School",
+ 		percent: "5%"
+ 	},
+ 	{
+ 		name: "Mckinley",
+ 		percent: "2%"
+ 	},
+ 	{
+ 		name: "Radford",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Kalani",
+ 		percent: "30%"
+ 	},
+ 	{
+ 		name: "Roosevelt",
+ 		percent: "10%"
+ 	},
+ 	{
+ 		name: "Pearl City",
+ 		percent: "13%"
+ 	},
+ 	{
+ 		name: "Waialua",
+ 		percent: "30%"
+ 	}
  ];
+
+ 
