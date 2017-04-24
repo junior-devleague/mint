@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 #im-1 {
 	height: 60%;
 	width: 40%;
@@ -25,17 +29,18 @@
 .content{
 	text-align: center;
 	font-size: 200%;
-	font-family: arial;
 	color: #000;
+	font-family: 'Lato', sans-serif;
 }
 button{
 	border: black;
 	border-radius: 200px;
 	font-size: 100%;
 }
-h1{
-	font-size: 300%;
+.logo {
+	font-size: 200%;
 	color: #838383;
+	font-family: 'Ubuntu', sans-serif;
 }
 .nav{
 	padding: 10px;
@@ -44,6 +49,7 @@ h1{
 	text-align: center;
 	border-bottom: solid #99FF99;
 	border-width: 10px;
+	font-family: 'Raleway', sans-serif;
 }	
 a:link {
 	color: red;
