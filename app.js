@@ -43,10 +43,6 @@ function noSame() {
 	Run Function Again*/}
 }
 
-Function m            
-
- /*mock data*/
-
  /*mock data voting page*/
 
  var mockData = [
