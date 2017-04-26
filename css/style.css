@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
-#im-1 {
+#image-holder {
 	height: 60%;
 	width: 40%;
 	display: block;
@@ -101,4 +101,11 @@ a:hover {
 a:active {
     text-decoration: none;
     color: #838383;
+}
+
+#two, #three, #four {
+	visibility: hidden;
+	height: 60%;
+	width: 40%;
+	position: absolute;
 }
