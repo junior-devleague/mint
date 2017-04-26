@@ -44,6 +44,11 @@ function noSame() {
 }
 
  /*mock data voting page*/
+            
+
+ /*mock data*/
+
+ /*mock data voting page*/
 
  var mockData = [
  	{
@@ -71,6 +76,7 @@ function noSame() {
     Event:"Prom Dress"
     Design:"Beaded Bodice"
     Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
+
   },
   {
     Type:"Open-Back Illusion Long"
