@@ -1,69 +1,111 @@
-@import url('https://fonts.googleapis.com/css?family=Ubuntu:300');
-@import url('https://fonts.googleapis.com/css?family=Raleway:300');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 #im-1 {
 	height: 60%;
 	width: 40%;
 	display: block;
-    margin: auto;
-    border: #838383 solid 50px;
-    border-radius: 40px;
+  	margin: auto;
+  	border: #838383 solid 50px;
+  	border-radius: 40px;
 }
+
 #yes {
 	height:75px;
 	width: 75px;
-	color: green;
+	background-color: green;
 	border-radius: 40px;
 	box-shadow: 10px 10px 5px #000;
-	font-size: 100%;
 }
 #no {
 	height: 75px;
 	width: 75px;
-	color: red;
 	border-radius:40px;
 	box-shadow: 10px 10px 5px #000;
-	font-size:100%;
+	font-size:bold 150%;
+	background-color: red;
+	color: white;
 }
-.content{
+
+.nav {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+
+body{
 	text-align: center;
-	font-size: 200%;
-	color: #000;
-	font-family: 'Lato', sans-serif;
+	flex-flow: column;
+	display: flex;
+	justify-content: center;
+	font-family: 'Lato', regular;
 }
+
+.logo{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: 'Ubuntu', medium;
+	font-size: 30px;
+	color: #838383;
+}
+
+.content{
+	font-size: 200%;
+	font-family: arial;
+	color: #838383;
+
+}
+
 button{
 	border: black;
-	border-radius: 200px;
-	font-size: 100%;
+	border-radius: 10px;
+	font-size: 75%;
+	color: white;
+	background-color:#838383 ; 
 }
-.logo {
-	font-size: 200%;
+
+#compare{
+	height: 30px;
+	width: 35%;
+	font-size: 15px;
+	border-bottom: 7px solid #99FF99;
+	padding-top: 50px;
 	color: #838383;
-	font-family: 'Ubuntu', sans-serif;
 }
-.nav{
-	padding: 10px;
-	height: 20%;
-	width: 30%;
-	text-align: center;
-	border-bottom: solid #99FF99;
-	border-width: 10px;
-	font-family: 'Raleway', sans-serif;
-}	
+
+#index{
+	height: 30px;
+	width: 35%;
+	font-size: 15px;
+	border-bottom: 7px solid #99FF99;
+	padding-top: 50px;
+	color: #838383;
+}
+
+/*For links on page*/
 a:link {
-	color: red;
-	text-decoration: none;
+    text-decoration: none;
+    color: #838383;
 }
+
 a:visited {
-	color: green;
-	text-decoration: none;
+    text-decoration: none;
+    color: #838383;
 }
-a:hover{
-	color: hotpink;
-	text-decoration: none;
+
+a:hover {
+    text-decoration: none;
+    color: #838383;
 }
-a:active{
-	color: blue;
-	text-decoration: none;
+
+a:active {
+  	text-decoration: none;
+    color: #838383;
+}
+#two, #three, #four {
+	visibility: hidden;
+	height: 60%;
+	width: 40%;
+	position: absolute;
 }
