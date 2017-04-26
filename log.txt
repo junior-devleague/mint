@@ -87,3 +87,13 @@ Javascript is ready to add slides
 Will add Randomizer later if needed
 
 CSS needs to be done
+
+------------------------------------
+
+April 24, 2017
+
+Started on flexbox
+
+Need to input fonts
+
+New Image feature needs to be completed
