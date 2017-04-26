@@ -43,16 +43,13 @@ function noSame() {
 	Run Function Again*/}
 }
 
-<<<<<<< HEAD
  /*mock data voting page*/
-=======
-Function m            
+            
 
  /*mock data*/
 
  /*mock data voting page*/
 
->>>>>>> master
  var mockData = [
  	{
  		Type:"Two Piece",
@@ -64,10 +61,7 @@ Function m
  		Type:"Sleeveless"
  		length:"Floor-Length"
  		Design:"Bead Embellished Bodice"
-<<<<<<< HEAD
-=======
     Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1520500"
->>>>>>> master
  	},
  	{
  		Type:"Strapless Sweetheart"
@@ -81,20 +75,15 @@ Function m
     Color:"Eggplant Purple" 
     Event:"Prom Dress"
     Design:"Beaded Bodice"
-<<<<<<< HEAD
-=======
     Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
->>>>>>> master
+
   },
   {
     Type:"Open-Back Illusion Long"
     Event:"Prom Dress" 
     Design:"Beaded Bodice"
     Color: "Light Pink"
-<<<<<<< HEAD
-=======
     Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1582814"
->>>>>>> master
   }
 
  ];
@@ -133,3 +122,13 @@ Function m
  ];
 
  
+var current = 0,
+    slides = document.getElementsByTagName("img");
+
+function changeImage() {
+  for (var i = 0; i < slides.length; i++) {
+    slides[i].style.opacity = 0;
+  }
+  current = (current != slides.length - 1) ? current + 1 : 0;
+  slides[current].style.opacity = 1;
+};

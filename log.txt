@@ -87,3 +87,27 @@ Javascript is ready to add slides
 Will add Randomizer later if needed
 
 CSS needs to be done
+
+------------------------------------
+
+April 24, 2017
+
+Started on flexbox
+
+Need to input fonts
+
+New Image feature needs to be completed
+
+------------------------------------
+
+April 25, 2017 Starbucks, Alex
+
+Applied fonts, flex box, decorations, css is good
+
+------------------------------------
+
+April 26, 2017
+
+MAIN: Slide feature to work
+
+Side: CSS
