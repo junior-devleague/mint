@@ -45,17 +45,21 @@ function noSame() {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
- /*mock data voting page*/
+<<<<<<< HEAD
 =======
-Function m            
+>>>>>>> eaea048877dbbb6d0947639a65be684fcacbd03f
+ /*mock data voting page*/
+            
 
  /*mock data*/
 
+<<<<<<< HEAD
 =======
 >>>>>>> master
+=======
+>>>>>>> eaea048877dbbb6d0947639a65be684fcacbd03f
  /*mock data voting page*/
 
->>>>>>> master
  var mockData = [
  	{
  		Type:"Two Piece",
@@ -67,10 +71,7 @@ Function m
  		Type:"Sleeveless"
  		length:"Floor-Length"
  		Design:"Bead Embellished Bodice"
-<<<<<<< HEAD
-=======
     Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1520500"
->>>>>>> master
  	},
  	{
  		Type:"Strapless Sweetheart"
@@ -84,20 +85,15 @@ Function m
     Color:"Eggplant Purple" 
     Event:"Prom Dress"
     Design:"Beaded Bodice"
-<<<<<<< HEAD
-=======
     Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
->>>>>>> master
+
   },
   {
     Type:"Open-Back Illusion Long"
     Event:"Prom Dress" 
     Design:"Beaded Bodice"
     Color: "Light Pink"
-<<<<<<< HEAD
-=======
     Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1582814"
->>>>>>> master
   }
 
  ];
