@@ -103,9 +103,12 @@ a:active {
     color: #838383;
 }
 
-#two, #three, #four {
-	visibility: hidden;
+img {
 	height: 60%;
 	width: 40%;
 	position: absolute;
+  	transition: opacity .5s ease-in;
+}
+
+img + img { opacity: 0; }
 }
