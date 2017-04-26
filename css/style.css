@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+#im-1 {
+	height: 60%;
+	width: 40%;
+	display: block;
+  	margin: auto;
+  	border: #A9A9A9 solid 50px;
+  	border-radius: 40px;
+}
+
+#yes {
+	height:75px;
+	width: 75px;
+	color: green;
+	border-radius: 40px;
+	box-shadow: 10px 10px 5px #000;
+	font-size: 100%;
+}
+
+#no {
+	height: 75px;
+	width: 75px;
+	color: red;
+	border-radius:40px;
+	box-shadow: 10px 10px 5px #000;
+	font-size:100%;
+}
+
+.nav {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: center;
+}
+
+body{
+	text-align: center;
+	flex-flow: column;
+	display: flex;
+	justify-content: center;
+	font-family: 'Lato', regular;
+}
+
+.logo{
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: 'Ubuntu', medium;
+	font-size: 30px;
+	color: #838383;
+}
+
+.content{
+	font-size: 200%;
+	font-family: arial;
+	color: #A9A9A9;
+
+}
+
+button{
+	border: black;
+	border-radius: 200px;
+	font-size: 100%;
+}
+
+#compare{
+	height: 30px;
+	width: 35%;
+	font-size: 15px;
+	border-bottom: 7px solid #99FF99;
+	padding-top: 50px;
+	color: #838383;
+}
+
+#index{
+	height: 30px;
+	width: 35%;
+	font-size: 15px;
+	border-bottom: 7px solid #99FF99;
+	padding-top: 50px;
+	color: #838383;
+}
+
+/*For links on page*/
+a:link {
+    text-decoration: none;
+    color: #838383;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #838383;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #838383;
+}
+
+a:active {
+    tex
