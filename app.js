@@ -43,6 +43,10 @@ function noSame() {
 	Run Function Again*/}
 }
 
+function slider() {
+   if (/*the yes or no button is clicked then switch slide image off screen*/)
+}
+
  /*mock data voting page*/
 
  var mockData = [
@@ -87,7 +91,7 @@ function noSame() {
  var compareData = [
  	{
  		name: " Waipahu High School",
- 		percent: " 5%"
+ 		percent: "5% "
  	},
  	{
  		name: " Mckinley",
