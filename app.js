@@ -1,11 +1,11 @@
 
 
 function buttonone (){
-  document.getElementById("no").style.backgroundColor="green";
+  document.getElementById("no").addEventListener();
 }
 
 function buttontwo(){
-  document.getElementById("yes").style.backgroundColor="green";
+  document.getElementById("yes").addEventListener();
 }
 var storedNumbers = [];
 
@@ -44,34 +44,40 @@ function noSame() {
 }
 
  /*mock data voting page*/
+
  var mockData = [
  	{
  		Type:"Two Piece",
  		Design:"Floral-Print",
  		length:"Long"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1561458"
  	},
  	{
  		Type:"Sleeveless"
  		length:"Floor-Length"
  		Design:"Bead Embellished Bodice"
+    Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1520500"
  	},
  	{
  		Type:"Strapless Sweetheart"
  		length:"Floor Length" 
  		Color:"Navy" 
  		Design:"Side Slit"
+    Url:"https://www.promgirl.com/shop/dresses/viewitem-PD1399092"
  	},
   {
     Type: "Long"
     Color:"Eggplant Purple" 
     Event:"Prom Dress"
     Design:"Beaded Bodice"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
   },
   {
     Type:"Open-Back Illusion Long"
     Event:"Prom Dress" 
     Design:"Beaded Bodice"
     Color: "Light Pink"
+    Url: "https://www.promgirl.com/shop/dresses/viewitem-PD1582814"
   }
 
  ];
@@ -110,3 +116,13 @@ function noSame() {
  ];
 
  
+var current = 0,
+    slides = document.getElementsByTagName("img");
+
+function changeImage() {
+  for (var i = 0; i < slides.length; i++) {
+    slides[i].style.opacity = 0;
+  }
+  current = (current != slides.length - 1) ? current + 1 : 0;
+  slides[current].style.opacity = 1;
+};

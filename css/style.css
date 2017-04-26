@@ -38,6 +38,7 @@ button{
 #compare{
 	font-size: 100%;
 	border-bottom: thick;
+<<<<<<< HEAD
 	border-color: #99FF99;
 }
 .bimg {
@@ -62,4 +63,8 @@ a:hover {
 a:active {
     color: blue;
     text-decoration: none;
+=======
+	border-color: #98ff98
+	background-color: blue;
+>>>>>>> 6a647e5bb186d6a82b11f90b428778fefe4fcb55
 }
