@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
 #im-1 {
 	height: 60%;
 	width: 40%;
@@ -36,14 +40,18 @@ body{
 	flex-flow: column;
 	display: flex;
 	justify-content: center;
+	font-family: 'Lato', regular;
 }
 
 .logo{
-	padding: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-family: 'Ubuntu', medium;
+	font-size: 30px;
+	color: #838383;
 }
 
 .content{
-
 	font-size: 200%;
 	font-family: arial;
 	color: #A9A9A9;
@@ -57,10 +65,40 @@ button{
 }
 
 #compare{
-	font-size: 100%;
-	border-bottom: 30% solid #99FF99;
+	height: 30px;
+	width: 35%;
+	font-size: 15px;
+	border-bottom: 7px solid #99FF99;
+	padding-top: 50px;
+	color: #838383;
 }
 
 #index{
-	border-bottom: 30% solid #99FF99;
+	height: 30px;
+	width: 35%;
+	font-size: 15px;
+	border-bottom: 7px solid #99FF99;
+	padding-top: 50px;
+	color: #838383;
+}
+
+/*For links on page*/
+a:link {
+    text-decoration: none;
+    color: #838383;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #838383;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #838383;
+}
+
+a:active {
+    text-decoration: none;
+    color: #838383;
 }
