@@ -1,47 +1,48 @@
+console.log("Check");
 
+// function buttonone (){
+//   document.getElementById("no").addEventListener();
+// }
 
-function buttonone (){
-  document.getElementById("no").addEventListener();
-}
+// function buttontwo(){
+//   document.getElementById("yes").addEventListener();
+// }
+// var storedNumbers = [];
 
-function buttontwo(){
-  document.getElementById("yes").addEventListener();
-}
-var storedNumbers = [];
+// var images = [/*dresses*/];
+// function yes(){
+//   document.getElementById("yes")
+//   /*
+//   here i put the randomizer when i getum from braden so the onlick function chooses from the array
+//   both yes and no function will have the same output
+//   */
+// } 
 
-var images = [/*dresses*/];
-function yes(){
-  document.getElementById("yes")
-  /*
-  here i put the randomizer when i getum from braden so the onlick function chooses from the array
-  both yes and no function will have the same output
-  */
-} 
+// function no (){
+//   document.getElementById.("no")
+//   /*
+//   here i put the randomizer when i getum from braden so the onlick function chooses from the array
+//   both yes and no functions will have same result
+//   */
+// }
 
-function no (){
-  document.getElementById.("no")
-  /*
-  here i put the randomizer when i getum from braden so the onlick function chooses from the array
-  both yes and no functions will have same result
-  */
-}
+// //Randomizer
 
-//Randomizer
+// var storedImages = [];
+// var random = Math.floor(Math.random() * 10)
+//  function randomizer() {
+//  	random
+//  }
 
-var storedImages = [];
-var random = Math.floor(Math.random() * 10)
- function randomizer() {
- 	random
- }
-
-storedImages.push(random)
+// storedImages.push(random)
  
- console.log(randomizer);
+//  console.log(randomizer);
 
-function noSame() {
-	if (/*random number = to storedImages*/) {/*
-	Run Function Again*/}
-}
+// function noSame() {
+// 	if (/*random number = to storedImages*/) {/*
+// 	Run Function Again*/}
+// }
+
 
  /*mock data voting page*/
             
@@ -131,4 +132,4 @@ function changeImage() {
   }
   current = (current != slides.length - 1) ? current + 1 : 0;
   slides[current].style.opacity = 1;
-};
+}; 
