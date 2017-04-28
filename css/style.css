@@ -14,19 +14,19 @@
 #yes {
 	height:75px;
 	width: 75px;
-	color: green;
+	background-color: green;
 	border-radius: 40px;
 	box-shadow: 10px 10px 5px #000;
-	font-size: 100%;
 }
 
 #no {
 	height: 75px;
 	width: 75px;
-	color: red;
 	border-radius:40px;
 	box-shadow: 10px 10px 5px #000;
-	font-size:100%;
+	font-size:bold 150%;
+	background-color: red;
+	color: white;
 }
 
 .nav {
@@ -60,7 +60,7 @@ body{
 
 button{
 	border: black;
-	border-radius: 200px;
+	border-radius: 100px;
 	font-size: 100%;
 }
 
@@ -81,6 +81,16 @@ button{
 	padding-top: 50px;
 	color: #838383;
 }
+	
+img {
+	height: 60%;
+	width: 40%;
+	display: block;
+  	margin: auto;
+  	transition: opacity .5s ease-in;
+  }
+
+img + img { opacity: 0; }
 
 /*For links on page*/
 a:link {
@@ -99,16 +109,7 @@ a:hover {
 }
 
 a:active {
-    text-decoration: none;
+  	text-decoration: none;
     color: #838383;
 }
 
-img {
-	height: 60%;
-	width: 40%;
-	position: absolute;
-  	transition: opacity .5s ease-in;
-}
-
-img + img { opacity: 0; }
-}
