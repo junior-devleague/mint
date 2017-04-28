@@ -44,7 +44,7 @@ function noSame() {
 }
 
 function slider() {
-   if (/*the yes or no button is clicked then switch slide image off screen*/)
+   if (/*t he yes or no button is clicked then switch slide image off screen*/)
 }
 
  /*mock data voting page*/
@@ -90,31 +90,31 @@ function slider() {
 
  var compareData = [
  	{
- 		name: " Waipahu High School",
- 		percent: "5% "
+ 		ame: " Waipahu High School",
+ 		percent: " 5%"
  	},
  	{
- 		name: " Mckinley",
+ 		name: " Mckinley High School",
  		percent: " 2%"
  	},
  	{
- 		name: " Radford",
+ 		name: " Radford High School",
  		percent: " 10%"
  	},
  	{
- 		name: " Kalani",
+ 		name: " Kalani High School",
  		percent: " 30%"
  	},
  	{
- 		name: " Roosevelt",
+ 		name: " Roosevelt High School",
  		percent: " 10%"
  	},
  	{
- 		name: " Pearl City",
+ 		name: " Pearl City High School",
  		percent: " 13%"
  	},
  	{
- 		name: " Waialua",
+ 		name: " Waialua High School",
  		percent: " 30%"
  	}
  ];
