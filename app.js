@@ -43,11 +43,21 @@ function noSame() {
 	Run Function Again*/}
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> eaea048877dbbb6d0947639a65be684fcacbd03f
  /*mock data voting page*/
             
 
  /*mock data*/
 
+<<<<<<< HEAD
+=======
+>>>>>>> master
+=======
+>>>>>>> eaea048877dbbb6d0947639a65be684fcacbd03f
  /*mock data voting page*/
 
  var mockData = [
