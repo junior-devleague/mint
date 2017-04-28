@@ -46,21 +46,24 @@ body{
 
 }
 
+.voting {
+	display: flex;
+	flex-wrap: row;
+
+}
 
 #yes {
 	height:75px;
 	width: 75px;
-	background-color: #E77979;
+	background-color: #99FF99;
 	border-radius: 40px;
-	font-size: 100%;
-
 }
 
 #no {
 	height: 75px;
 	width: 75px;
 	color: #FFF;
-	background-color: #99FF99;
+	background-color: #E77979;
 	border-radius:40px;
 	font-size: 45px;
 	font-weight: bold;
@@ -68,10 +71,15 @@ body{
 }
 
 button{
+	height: 40px;
 	font-size: 20px;
 	font-family: 'Raleway', sans-serif;
 	border: black;
-	border-radius: 200px;
+	border-radius: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
 }
 
 #but-a {
@@ -134,10 +142,6 @@ a:active {
 	height: 400px;
 	background-color: #838383;
 
-
-.hs {
-
-}
 
 img {
 	height: 60%;
