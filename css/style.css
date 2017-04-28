@@ -68,9 +68,15 @@ body{
 }
 
 button{
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
 	border: black;
 	border-radius: 200px;
-	font-size: 100%;
+}
+
+#but-a {
+	border: black;
+	border-radius: 200px;
 }
 
 #compare{
@@ -89,6 +95,12 @@ button{
 	border-bottom: 7px solid #99FF99;
 	padding-top: 50px;
 	color: #838383;
+}
+
+.data {
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
 }
 
 ul {
@@ -121,6 +133,11 @@ a:active {
 	width: 100%;
 	height: 400px;
 	background-color: #838383;
+
+
+.hs {
+
+}
 
 img {
 	height: 60%;
