@@ -67,7 +67,6 @@ body{
 	border-radius:40px;
 	font-size: 45px;
 	font-weight: bold;
-
 }
 
 button{
@@ -132,7 +131,7 @@ a:hover {
 }
 
 a:active {
-    text-decoration: none;
+  	text-decoration: none;
     color: #838383;
 }
 
