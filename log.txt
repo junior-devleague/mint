@@ -121,3 +121,15 @@ Need to push up CSS
 CSS needs to match with JS
 
 JS slide feature needs to work
+
+------------------------------------
+
+May 1, 2017
+
+Deleting junk from master
+
+Alex and Madison finishing CSS
+
+Braden is fixing up the branch
+
+Isaiah will help with CSS
