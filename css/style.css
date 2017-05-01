@@ -4,7 +4,7 @@
 
 #image-holder {
 	height: 60%;
-	width: 40%;
+	width: 420pt;
 	display: block;
   	margin: auto;
   	border: #838383 solid 50px;
@@ -49,6 +49,7 @@ body{
 .voting {
 	display: flex;
 	flex-wrap: row;
+	align-items: flex-end;
 
 }
 
