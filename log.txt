@@ -111,3 +111,37 @@ April 26, 2017
 MAIN: Slide feature to work
 
 Side: CSS
+
+------------------------------------
+
+April 28, 2017
+
+Need to push up CSS
+
+CSS needs to match with JS
+
+JS slide feature needs to work
+
+------------------------------------
+
+May 1, 2017
+
+Deleting junk from master
+
+Alex and Madison finishing CSS
+
+Braden is fixing up the branch
+
+Isaiah will help with CSS
+
+------------------------------------
+
+May 3, 2017
+
+Roadblock: Slider
+
+Isaiah and Braden will finish slider function no matter what
+
+CSS is nearly finsihed
+
+Functional JS addition

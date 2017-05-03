@@ -1,4 +1,5 @@
-/*mock data voting page*/
+ /*mock data voting page*/
+
 
  var mockData = [
  	{
