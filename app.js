@@ -1,12 +1,12 @@
 
 
-function buttonone (){
-  document.getElementById("no").addEventListener();
-}
+// function buttonone (){
+//   document.getElementById("no").addEventListener();
+// }
 
-function buttontwo(){
-  document.getElementById("yes").addEventListener();
-}
+// function buttontwo(){
+//   document.getElementById("yes").addEventListener();
+// }
 var storedNumbers = [];
 
 var images = [/*dresses*/];
@@ -53,34 +53,34 @@ function slider() {
  	{
  		Type: " Two Piece",
  		Design: " Floral-Print",
- 		length: " Long"
+ 		length: " Long",
     Url: " https://www.promgirl.com/shop/dresses/viewitem-PD1561458"
  	},
  	{
- 		Type:" Sleeveless"
- 		length:" Floor-Length"
- 		Design:" Bead Embellished Bodice"
+ 		Type:" Sleeveless",
+ 		length:" Floor-Length",
+ 		Design:" Bead Embellished Bodice",
     Url:" https://www.promgirl.com/shop/dresses/viewitem-PD1520500"
  	},
  	{
- 		Type: " Strapless Sweetheart"
- 		length: " Floor Length" 
- 		Color: " Navy" 
- 		Design: " Side Slit"
+ 		Type: " Strapless Sweetheart",
+ 		length: " Floor Length",
+ 		Color: " Navy",
+ 		Design: " Side Slit",
     Url: " https://www.promgirl.com/shop/dresses/viewitem-PD1399092"
  	},
   {
-    Type: " Long"
-    Color: " Eggplant Purple" 
-    Event: " Prom Dress"
-    Design: " Beaded Bodice"
+    Type: " Long",
+    Color: " Eggplant Purple", 
+    Event: " Prom Dress",
+    Design: " Beaded Bodice",
     Url: " https://www.promgirl.com/shop/dresses/viewitem-PD1632253"
   },
   {
-    Type: " Open-Back Illusion Long"
-    Event: " Prom Dress" 
-    Design: " Beaded Bodice"
-    Color: " Light Pink"
+    Type: " Open-Back Illusion Long",
+    Event: " Prom Dress", 
+    Design: " Beaded Bodice",
+    Color: " Light Pink",
     Url: " https://www.promgirl.com/shop/dresses/viewitem-PD1582814"
   }
 
