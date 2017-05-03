@@ -133,3 +133,15 @@ Alex and Madison finishing CSS
 Braden is fixing up the branch
 
 Isaiah will help with CSS
+
+------------------------------------
+
+May 3, 2017
+
+Roadblock: Slider
+
+Isaiah and Braden will finish slider function no matter what
+
+CSS is nearly finsihed
+
+Functional JS addition
