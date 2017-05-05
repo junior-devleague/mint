@@ -71,7 +71,7 @@
  	}
  ];
 
-var noSame [];
+var noSame = [];
 
 var x = Math.floor((Math.random() * 5));
 
