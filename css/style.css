@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 .container {
-	padding-left: 15%;
-	padding-right: 15%;
+/*	padding-left: 15%;
+	padding-right: 15%;*/
 }
 
 #image-holder {
@@ -20,6 +20,11 @@
 	display: flex;
 	flex-wrap: nowrap;
 	justify-content: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 30%;
+	width: 80%;
+
 }
 
 body{
@@ -28,6 +33,7 @@ body{
 	display: flex;
 	justify-content: center;
 	font-family: 'Lato', regular;
+
 }
 
 .header {
@@ -83,7 +89,6 @@ button{
 	border-radius: 10px;
 	background-color: #838383;
 
-
 }
 
 
@@ -114,6 +119,8 @@ button{
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
+	height: 20%;
+
 }
 
 ul {
