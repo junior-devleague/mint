@@ -153,3 +153,15 @@ May 5, 2017
 We are live coding today
 
 On Wednesday we need to finish CSS and JS slider
+
+-----------------------------------
+
+May 8, 2017
+
+Roadblock: Slider repeating
+
+Isaiah and Braden will finish slider function
+
+CSS is nearly finsihed
+
+Need to finish JS
