@@ -6,9 +6,9 @@ img {
 	height: 60%;
 	width: 40%;
 	display: block;
-  	margin: auto;
-  	border: #A9A9A9 solid 50px;
-  	border-radius: 40px;
+  margin: auto;
+  border: #838383 solid 50px;
+  border-radius: 40px;
 }
 
 #yes {
@@ -43,6 +43,12 @@ body{
 	font-family: 'Lato', regular;
 }
 
+.header {
+	color: #4A4A4A;
+	font-family: 'Raleway', sans-serif;
+	margin: 10px;
+}
+
 .logo{
 	margin-left: 20px;
 	margin-right: 20px;
@@ -58,10 +64,50 @@ body{
 
 }
 
+.voting {
+	display: flex;
+	flex-wrap: row;
+
+}
+
+#yes {
+	height:75px;
+	width: 75px;
+	background-color: #99FF99;
+	border-radius: 40px;
+}
+
+#no {
+	height: 75px;
+	width: 75px;
+	color: #FFF;
+	background-color: #E77979;
+	border-radius:40px;
+	font-size: 45px;
+	font-weight: bold;
+}
+
 button{
+	height: 40px;
+	font-size: 20px;
+	font-family: 'Raleway', sans-serif;
+	border: black;
+	border-radius: 10px;
+/*	margin-top: 50%;
+	margin-left: 10%;
+	margin-right: 10%;*/
+/*	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+*/}
+
+#but-a {
 	border: black;
 	border-radius: 100px;
 	font-size: 100%;
+	border-radius: 200px;
+
 }
 
 #compare{
@@ -80,6 +126,16 @@ button{
 	border-bottom: 7px solid #99FF99;
 	padding-top: 50px;
 	color: #838383;
+}
+
+.data {
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+}
+
+ul {
+	list-style: none;
 }
 
 
@@ -104,3 +160,8 @@ a:active {
     color: #838383;
 }
 
+.bar {
+	width: 100%;
+	height: 400px;
+	background-color: #838383;
+}
