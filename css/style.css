@@ -176,10 +176,9 @@ a:active {
 }
 */
 img{
-	height: 60%;
 	width: 40%;
-	position: absolute;
   	transition: opacity .5s ease-in;
 }
 
 img + img { opacity: 0; }
+
