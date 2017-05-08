@@ -74,14 +74,19 @@
 
 var noSame = [];
 
-var x = Math.floor((Math.random() * 5));
 
-function randomizer() {
-	console.log(x);
-};
-
-var images = ["https://img.promgirl.com/_img/PGPRODUCTS/1561458/1000/black-navy-dress-BL-11137-a.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1520500/1000/black-dress-FB-GL1322-d.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1399092/1000/navy-dress-MF-E1778-c.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1632253/1000/eggplant-dress-FB-GL2282-a.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1582814/1000/champagne-dress-DQ-9474-b.jpg"];
+	var images = ["https://img.promgirl.com/_img/PGPRODUCTS/1561458/1000/black-navy-dress-BL-11137-a.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1520500/1000/black-dress-FB-GL1322-d.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1399092/1000/navy-dress-MF-E1778-c.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1632253/1000/eggplant-dress-FB-GL2282-a.jpg", "https://img.promgirl.com/_img/PGPRODUCTS/1582814/1000/champagne-dress-DQ-9474-b.jpg"];
 
 function changeImage() {
+	var x = Math.floor((Math.random() * images.length));
+	 console.log(images.length);
+	 console.log(noSame);
+	 	if (images.length === 0){
+	 	images = noSame;
+	 	noSame = [];
+	 }
 	 document.images["pic"].src = images[x];
+	 noSame.push(images[x]);
+	 images.splice(x, 1);
+
 };
