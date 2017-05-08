@@ -121,3 +121,47 @@ Need to push up CSS
 CSS needs to match with JS
 
 JS slide feature needs to work
+
+------------------------------------
+
+May 1, 2017
+
+Deleting junk from master
+
+Alex and Madison finishing CSS
+
+Braden is fixing up the branch
+
+Isaiah will help with CSS
+
+------------------------------------
+
+May 3, 2017
+
+Roadblock: Slider
+
+Isaiah and Braden will finish slider function no matter what
+
+CSS is nearly finsihed
+
+Functional JS addition
+
+-----------------------------------
+
+May 5, 2017
+
+We are live coding today
+
+On Wednesday we need to finish CSS and JS slider
+
+-----------------------------------
+
+May 8, 2017
+
+Roadblock: Slider repeating
+
+Isaiah and Braden will finish slider function
+
+CSS is nearly finsihed
+
+Need to finish JS
