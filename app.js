@@ -90,3 +90,30 @@ function changeImage() {
 	 images.splice(x, 1);
 
 };
+
+function yesButton() {
+	// body...
+}
+
+function noButton() {
+
+}
+
+var chart = c3.generate({
+	bindto: "#chart",
+	data: {
+		columns: [
+		["Yes", 300, 100, 80],
+		["No", 240, 60, 30]
+
+		],
+		types: {
+			Yes: 'pie',
+			No: 'pie'
+		}
+		colors: {
+			Yes: '#0000ff',
+			No: '#ff0000'
+		}
+	}
+})
