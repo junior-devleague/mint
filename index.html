@@ -5,44 +5,48 @@
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<div class="container">
-		<div class="nav">
-			<div id="index">
-				<a href="index.html">START VOTING</a>
-			</div>
-			<div class="logo">
-				<h1>MINT</h1>
-			</div>
-			<div id="compare">
-				<a href="compare.html">COMPARE ALL</a>
-			</div>
+	<div class="nav">
+		<div id="index">
+			<a href="index.html">START VOTING</a>
 		</div>
-		<div class="content">
-			<div class="voting">
-				<button id="no" onclick="no()">
-					X
-				</button>
-			<div id="image-holder">
-				<img src="https://cdn.lulus.com/images/product/xlarge/127386a-1.jpg" id="one">
-			</div>
+		<div class="logo">
+			<h1>MINT</h1>
+		</div>
+		<div id="compare">
+			<a href="compare.html">COMPARE ALL</a>
+		</div>
+	</div>
+	<div class="content">
+
+		<div>
+			<h3>Red Dress</h3>
+		</div>
+
+		<div id="image-holder">
+			<img src="https://cdn.lulus.com/images/product/xlarge/127386a-1.jpg" id="pic">
+		</div>
+
+		<div>
+			<p>this dress is killahs</p>
+		</div>
+		<div>
+			<button id="but-a">compare similar dresses</button>
+		</div>
+
 		<button id="yes" onclick="changeImage()" onclick="randomizer()">
 			<img src="images/checkmark.png">
 		</button>
-   	<div>
-				<div class="header">Red Dress</div>
-			</div>
-			<div>
-				<p>this dress is killahs</p>
-		</div>
-    <div>
-			<button id="but-a">compare similar dresses</button>
-		</div>
+		<button id="no" onclick="changeImage()" onclick="randomizer()">
+			No
+		</button>
+
 		<div>
 			<div class="header">Popularity by High School</div>
 			<div class="dressName"></div>
 			<div class="dressDesc"></div>
 		</div>
 		<div>
+			<h6>Popularity by High School</h6>
 			<div class="data">
 				<!--To remove bullets, use list-style:none; in CSS-->
 				<ul>
@@ -67,7 +71,7 @@
 				</ul>
 			</div>
 		</div>
-	</div>	
+	</div>
+	<script type="text/javascript" src="app.js"></script>
 </body>
-<script type="text/javascript" src="app.js"></script>
 </html>
