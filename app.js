@@ -130,3 +130,19 @@ function changeImage() {
   current = (current != slides.length - 1) ? current + 1 : 0;
   slides[current].style.opacity = 1;
 };
+
+var chart = c3.generate({
+  bindto: "#chart",
+  data : {
+    columns: [
+    ["yes", 300, 100, 80],
+    ["no", 230, 80, 80],
+
+    ],
+    types: {
+      yes :"pie",
+      no :"pie"
+    
+    }
+  }
+});
