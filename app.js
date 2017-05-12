@@ -91,29 +91,23 @@ function changeImage() {
 
 };
 
-function yesButton() {
-	// body...
-}
-
-function noButton() {
-
-}
-
 var chart = c3.generate({
 	bindto: "#chart",
 	data: {
 		columns: [
-		["Yes", 300, 100, 80],
-		["No", 240, 60, 30]
+		["Waipahu", 60],
+		["Kapolei", 20],
+		["Aiea", 27],
+		["PearlCity", 13],
+		["Kaiser", 40]
 
 		],
 		types: {
-			Yes: 'pie',
-			No: 'pie'
-		}
-		colors: {
-			Yes: '#0000ff',
-			No: '#ff0000'
+			Waipahu: 'pie',
+			Kapolei: 'pie',
+			Aiea: 'pie',
+			PearlCity: 'pie',
+			Kaiser: 'pie'
 		}
 	}
 })
