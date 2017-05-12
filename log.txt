@@ -148,6 +148,25 @@ Functional JS addition
 
 -----------------------------------
 
+May 5, 2017
+
+We are live coding today
+
+On Wednesday we need to finish CSS and JS slider
+
+-----------------------------------
+
+May 8, 2017
+
+Roadblock: Slider repeating
+
+Isaiah and Braden will finish slider function
+
+CSS is nearly finsihed
+
+Need to finish JS
+
+-----------------------------------
 May 10, 2017
 
 Going to add pie chart
@@ -155,3 +174,13 @@ Going to add pie chart
 Touch up CSS
 
 Need Pie chart to be responsive by Friday
+
+-----------------------------------
+
+May 12, 2017
+
+Braden has to find a way to make the graph responsive
+
+Madison will work on CSS
+
+Alex will work on presentation at home
