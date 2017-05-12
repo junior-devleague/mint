@@ -167,7 +167,6 @@ CSS is nearly finsihed
 Need to finish JS
 
 -----------------------------------
-
 May 10, 2017
 
 Going to add pie chart

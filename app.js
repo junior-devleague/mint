@@ -90,3 +90,24 @@ function changeImage() {
 	 images.splice(x, 1);
 
 };
+
+var chart = c3.generate({
+	bindto: "#chart",
+	data: {
+		columns: [
+		["Waipahu", 60],
+		["Kapolei", 20],
+		["Aiea", 27],
+		["PearlCity", 13],
+		["Kaiser", 40]
+
+		],
+		types: {
+			Waipahu: 'pie',
+			Kapolei: 'pie',
+			Aiea: 'pie',
+			PearlCity: 'pie',
+			Kaiser: 'pie'
+		}
+	}
+})
