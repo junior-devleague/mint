@@ -175,3 +175,13 @@ Going to add pie chart
 Touch up CSS
 
 Need Pie chart to be responsive by Friday
+
+-----------------------------------
+
+May 12, 2017
+
+Braden has to find a way to make the graph responsive
+
+Madison will work on CSS
+
+Alex will work on presentation at home
