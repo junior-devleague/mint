@@ -165,3 +165,32 @@ Isaiah and Braden will finish slider function
 CSS is nearly finsihed
 
 Need to finish JS
+
+-----------------------------------
+May 10, 2017
+
+Going to add pie chart
+
+Touch up CSS
+
+Need Pie chart to be responsive by Friday
+
+-----------------------------------
+
+May 12, 2017
+
+Braden has to find a way to make the graph responsive
+
+Madison will work on CSS
+
+Alex will work on presentation at home
+
+-----------------------------------
+
+May 15, 2017
+
+Braden has to finish matching compare page
+
+Madison and Isaiah has to finish styles with buttons on the side.
+
+Isaiah will work on the presentation.

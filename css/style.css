@@ -171,3 +171,8 @@ a:active {
 	height: 400px;
 	background-color: #838383;
 }
+
+.back {
+	height: 300px;
+	width: 20%;
+}

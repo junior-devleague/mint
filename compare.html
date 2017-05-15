@@ -20,7 +20,9 @@
 		<div class="content">
 			<div>
 				<div class="bar">
-					<!--insert title for dress and img-->
+					<div id="image-holder">
+						<img class="back" src="https://cdn.lulus.com/images/product/xlarge/127386a-1.jpg" id="pic">
+					</div>
 				</div>
 			</div>
 			<div>
@@ -34,10 +36,9 @@
 					</button>
 				</div>
 			</div>
+
 			<div class="results">
-				<div>
-					<!--Pie Chart-->
-				</div>
+
 				<div>
 					<!--By similar Styles (Img, percent beneath img) -->
 					<div class="img"></div>
@@ -47,7 +48,7 @@
 
 					<!--Popularity by High School (list "High School: x%") change x in js to mock data-->
 					<h6>Popularity by High School</h6>
-				</div>
+        </div>
 			</div>
 				<div class="data">
 					<!--To remove bullets, use list-style:none; in CSS-->
@@ -75,5 +76,13 @@
 			</div>
 		</div>
 	</div>
+
+					<div id="chart">
+
+					</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js" charset="utf-8"></script>
+ 	<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.js" charset="utf-8"></script>
+	<script type="text/javascript" src="app.js"></script>
 </body>
 </html>

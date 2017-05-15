@@ -2,6 +2,7 @@
 <html>
 <head>
 	<title>Mint</title>
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.css" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -36,7 +37,7 @@
 		<button id="yes" onclick="changeImage()" onclick="randomizer()">
 			<img src="images/checkmark.png">
 		</button>
-		<button id="no" onclick="changeImage()" onclick="randomizer()">
+		<button id="no" onclick="changeImage()" onclick="no()">
 			No
 		</button>
 
@@ -47,31 +48,6 @@
 		</div>
 		<div>
 			<h6>Popularity by High School</h6>
-			<div class="data">
-				<!--To remove bullets, use list-style:none; in CSS-->
-				<ul>
-					<li>
-						Waipahu HS: x%
-					</li>
-					<li>
-						McKinley HS: x%
-					</li>
-					<li>
-						Radford HS: x%
-					</li>
-					<li>
-						Kalani HS: x%
-					</li>
-					<li>
-						Roosevelt HS: x%
-					</li>
-					<li>
-						Kalani HS: x%
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
 	<script type="text/javascript" src="app.js"></script>
 </body>
 </html>
