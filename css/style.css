@@ -2,11 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
-.container {
-/*	padding-left: 15%;
-	padding-right: 15%;*/
-}
-
 #image-holder {
 	height: 60%;
 	width: 420pt;
@@ -14,6 +9,15 @@
   	margin: auto;
   	border: #838383 solid 50px;
   	border-radius: 40px;
+}
+
+.img {
+	height: 60%;
+	width: 40%;
+	display: block;
+  margin: auto;
+  border: #838383 solid 50px;
+  border-radius: 40px;
 }
 
 .nav {
@@ -77,6 +81,7 @@ body{
 
 .voting {
 	height: 100%;
+	width: ;
 	display: flex;
 	align-items: flex-end;
 
@@ -171,13 +176,4 @@ a:active {
 	width: 100%;
 	height: 400px;
 	background-color: #838383;
-
-
-img {
-	height: 60%;
-	width: 40%;
-	position: absolute;
-  	transition: opacity .5s ease-in;
 }
-
-img + img { opacity: 0; }
