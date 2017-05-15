@@ -2,82 +2,71 @@
 <html>
 <head>
 	<title>Mint</title>
+<!-- 	<link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.4.11/c3.min.css" rel="stylesheet" type="text/css"> -->
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-	<div class="container">
-		<div class="nav">
-			<div id="index">
-				<a href="index.html">START VOTING</a>
-			</div>
-			<div class="logo">
-				<h1>MINT</h1>
-			</div>
-			<div id="compare">
-				<a href="compare.html">COMPARE ALL</a>
-			</div>
+	<div class="nav">
+		<div id="index">
+			<a href="index.html">START VOTING</a>
 		</div>
-		<div class="content">
+		<div class="logo">
+			<h1>MINT</h1>
+		</div>
+		<div id="compare">
+			<a href="compare.html">COMPARE ALL</a>
+		</div>
+	</div>
+	<div class="content">
 
-			<div class="voting">
-				<button id="no" onclick="changeImage()" onclick="randomizer()">
-					X
-				</button>
+		<button id="no" onclick="changeImage()" onclick="randomizer()">
+			X
+		</button>
+		<div id="image-holder">
+			<img src="https://cdn.lulus.com/images/product/xlarge/127386a-1.jpg" id="pic">
+		</div>
+
+		<button id="yes" onclick="changeImage()" onclick="randomizer()">
+			<img src="images/checkmark.png">
+		</button>
 
 
-				<div id="image-holder">
-					<img src="https://cdn.lulus.com/images/product/xlarge/127386a-1.jpg" id="pic">
-				</div>
-
-
-				<button id="yes" onclick="changeImage()" onclick="randomizer()">
-					<img src="images/checkmark.png">
-				</button>
-			</div>
-
+		<div>
 			<div class="dressName">
 				Red Dress
 			</div>
 			<div class="dressDesc">
 				this dress is killahs
 			</div>
-
-			<div>
-				<button id="but-a">compare similar dresses</button>
-			</div>
-			<div>
-
-			</div>
-			<div>
-				<div class="data">
-					<!--To remove bullets, use list-style:none; in CSS-->
-				<div class="title">Popularity by High School</div>
-
-				<div ></div>
-					<ul>
-						<li>
-							Waipahu HS: x%
-						</li>
-						<li>
-							McKinley HS: x%
-						</li>
-						<li>
-							Radford HS: x%
-						</li>
-						<li>
-							Kalani HS: x%
-						</li>
-						<li>
-							Roosevelt HS: x%
-						</li>
-						<li>
-							Kalani HS: x%
-						</li>
-					</ul>
-				</div>
-			</div>
+			<button id="but-a">compare similar dresses</button>
 		</div>
-	</div>	
+
+
+		<div class="data">
+			<!--To remove bullets, use list-style:none; in CSS-->
+			<div class="title">Popularity by High School</div>
+			<ul>
+				<li>
+					Waipahu HS: x%
+				</li>
+				<li>
+					McKinley HS: x%
+				</li>
+				<li>
+					Radford HS: x%
+				</li>
+				<li>
+					Kalani HS: x%
+				</li>
+				<li>
+					Roosevelt HS: x%
+				</li>
+				<li>
+					Kalani HS: x%
+				</li>
+			</ul>
+		</div>
+	</div>
+	<script type="text/javascript" src="app.js"></script>
 </body>
-<script type="text/javascript" src="app.js"></script>
 </html>
