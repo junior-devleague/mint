@@ -2,9 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
+
 img {
 	height: 60%;
-	width: 40%;
+	width: 420pt;
 	display: block;
   margin: auto;
   border: #838383 solid 50px;
@@ -33,6 +34,11 @@ img {
 	display: flex;
 	flex-wrap: nowrap;
 	justify-content: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 30%;
+	width: 80%;
+
 }
 
 body{
@@ -41,6 +47,7 @@ body{
 	display: flex;
 	justify-content: center;
 	font-family: 'Lato', regular;
+
 }
 
 .header {
@@ -65,8 +72,9 @@ body{
 }
 
 .voting {
+	height: 100%;
 	display: flex;
-	flex-wrap: row;
+	align-items: flex-end;
 
 }
 
@@ -75,6 +83,7 @@ body{
 	width: 75px;
 	background-color: #99FF99;
 	border-radius: 40px;
+
 }
 
 #no {
@@ -91,16 +100,11 @@ button{
 	height: 40px;
 	font-size: 20px;
 	font-family: 'Raleway', sans-serif;
-	border: black;
 	border-radius: 10px;
-/*	margin-top: 50%;
-	margin-left: 10%;
-	margin-right: 10%;*/
-/*	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 30px;
-	padding-right: 30px;
-*/}
+	background-color: #838383;
+
+}
+
 
 #but-a {
 	border: black;
@@ -132,6 +136,8 @@ button{
 	display: flex;
 	flex-flow: column;
 	justify-content: center;
+	height: 20%;
+
 }
 
 ul {
