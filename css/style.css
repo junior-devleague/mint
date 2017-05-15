@@ -3,12 +3,31 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
 #pic {
+
 	height: 60%;
 	width: 40%;
 	display: block;
-  	margin: auto;
-  	border: #838383 solid 50px;
-  	border-radius: 40px;
+  margin: auto;
+  border: #838383 solid 50px;
+  border-radius: 40px;
+}
+
+#yes {
+	height:75px;
+	width: 75px;
+	background-color: green;
+	border-radius: 40px;
+	box-shadow: 10px 10px 5px #000;
+}
+
+#no {
+	height: 75px;
+	width: 75px;
+	border-radius:40px;
+	box-shadow: 10px 10px 5px #000;
+	font-size:bold 150%;
+	background-color: red;
+	color: white;
 }
 
 #yes {

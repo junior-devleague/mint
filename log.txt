@@ -121,3 +121,76 @@ Need to push up CSS
 CSS needs to match with JS
 
 JS slide feature needs to work
+
+------------------------------------
+
+May 1, 2017
+
+Deleting junk from master
+
+Alex and Madison finishing CSS
+
+Braden is fixing up the branch
+
+Isaiah will help with CSS
+
+------------------------------------
+
+May 3, 2017
+
+Roadblock: Slider
+
+Isaiah and Braden will finish slider function no matter what
+
+CSS is nearly finsihed
+
+Functional JS addition
+
+-----------------------------------
+
+May 5, 2017
+
+We are live coding today
+
+On Wednesday we need to finish CSS and JS slider
+
+-----------------------------------
+
+May 8, 2017
+
+Roadblock: Slider repeating
+
+Isaiah and Braden will finish slider function
+
+CSS is nearly finsihed
+
+Need to finish JS
+
+-----------------------------------
+May 10, 2017
+
+Going to add pie chart
+
+Touch up CSS
+
+Need Pie chart to be responsive by Friday
+
+-----------------------------------
+
+May 12, 2017
+
+Braden has to find a way to make the graph responsive
+
+Madison will work on CSS
+
+Alex will work on presentation at home
+
+-----------------------------------
+
+May 15, 2017
+
+Braden has to finish matching compare page
+
+Madison and Isaiah has to finish styles with buttons on the side.
+
+Isaiah will work on the presentation.
