@@ -6,9 +6,9 @@ img {
 	height: 60%;
 	width: 40%;
 	display: block;
- 	margin: auto;
-  	border: #838383 solid 50px;
- 	border-radius: 40px;
+  margin: auto;
+  border: #838383 solid 50px;
+  border-radius: 40px;
 }
 
 #yes {
@@ -165,10 +165,8 @@ a:active {
 	height: 400px;
 	background-color: #838383;
 }
-.picture {
-	height: 125%;
-	width: 50%;
+
+.back {
+	height: 300px;
+	width: 20%;
 }
-
-
-
