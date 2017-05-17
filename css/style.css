@@ -128,6 +128,14 @@ button{
 
 }
 
+#but-b {
+	border: black;
+	border-radius: 100px;
+	font-size: 100%;
+	border-radius: 200px;
+
+}
+
 #compare{
 	height: 30px;
 	width: 35%;
