@@ -185,6 +185,7 @@ a:active {
 }
 
 .back {
+	padding-top:50px;
 	height: 300px;
 	width: 20%;
 }
