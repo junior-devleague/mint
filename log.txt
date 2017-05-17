@@ -184,3 +184,11 @@ Braden has to find a way to make the graph responsive
 Madison will work on CSS
 
 Alex will work on presentation at home
+
+-----------------------------------
+
+May 17, 2017
+
+Madison and Isaiah will work on the slides and video
+
+Braden will fix JS
