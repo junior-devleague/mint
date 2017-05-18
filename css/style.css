@@ -12,33 +12,6 @@
   border-radius: 40px;
 }
 
-#yes {
-	height:75px;
-	width: 75px;
-	background-color: green;
-	border-radius: 40px;
-	box-shadow: 10px 10px 5px #000;
-}
-
-#no {
-	height: 75px;
-	width: 75px;
-	border-radius:40px;
-	box-shadow: 10px 10px 5px #000;
-	font-size:bold 150%;
-	background-color: red;
-	color: white;
-}
-
-.img {
-	height: 60%;
-	width: 40%;
-	display: block;
-  margin: auto;
-  border: #838383 solid 50px;
-  border-radius: 40px;
-}
-
 .nav {
 	display: flex;
 	flex-wrap: nowrap;
@@ -103,6 +76,7 @@ body{
 	width: ;
 	display: flex;
 	align-items: flex-end;
+	justify-content: center;
 
 }
 
@@ -111,7 +85,7 @@ body{
 	width: 75px;
 	background-color: #99FF99;
 	border-radius: 40px;
-	
+	margin-left: 5%;
 }
 
 #no {
@@ -122,6 +96,7 @@ body{
 	border-radius:40px;
 	font-size: 45px;
 	font-weight: bold;
+	margin-right: 5%;
 }
 
 button{
